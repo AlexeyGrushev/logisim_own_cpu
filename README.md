@@ -2,11 +2,11 @@
 Processor circuit Own CPU v1.0
 # Own CPU v1.0
 
+[Документация с изображениями](https://affine.grushev-dev.ru/workspace/2bddda79-dbe8-49dd-8d89-ed637495c3cf/DJIYgNEsjr)
+
 Представляет собой проет учебного процессора на собственной архитектуре. Разрабатывется по подобию учебного процессора программы Lampanel
 
 
-
-Схема также имеет графические рисунки по [Own CPU v1.0](file:///workspace/2bddda79-dbe8-49dd-8d89-ed637495c3cf/DJIYgNEsjr?mode=edgeless) (наброски)
 
 
 
